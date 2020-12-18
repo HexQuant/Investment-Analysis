@@ -1,4 +1,4 @@
-# Investment-Analysis
+# Investment Analysis
 Инвестиционный бюллетень российского рынка ценных бумаг
 
 ## Содержание:
